@@ -2,7 +2,7 @@
 
 ## About me 
 
-A 15-year-old teen with over two years of solid programming experience. Curious, lead-minded, always willing to learn, and open to new technologies. Currently developing apps with Kodular.io, I am learning java and python and have a bit of experience in HTML and CSS…
+A 15-year-old teen with over two years of solid programming experience. Curious, lead-minded, always willing to learn, and open to new technologies , I am learning java and python and have a bit of experience in HTML and CSS…
 
 Apart from coding, I enjoy designing user interfaces for mobile and web apps. I also have a keen interest in physics and tech related stuff.<br>
 
